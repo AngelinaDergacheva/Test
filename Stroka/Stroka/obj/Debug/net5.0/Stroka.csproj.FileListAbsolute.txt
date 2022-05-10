@@ -1,0 +1,16 @@
+C:\Users\Angelina\source\repos\Stroka\Stroka\bin\Debug\net5.0\Stroka.exe
+C:\Users\Angelina\source\repos\Stroka\Stroka\bin\Debug\net5.0\Stroka.deps.json
+C:\Users\Angelina\source\repos\Stroka\Stroka\bin\Debug\net5.0\Stroka.runtimeconfig.json
+C:\Users\Angelina\source\repos\Stroka\Stroka\bin\Debug\net5.0\Stroka.runtimeconfig.dev.json
+C:\Users\Angelina\source\repos\Stroka\Stroka\bin\Debug\net5.0\Stroka.dll
+C:\Users\Angelina\source\repos\Stroka\Stroka\bin\Debug\net5.0\ref\Stroka.dll
+C:\Users\Angelina\source\repos\Stroka\Stroka\bin\Debug\net5.0\Stroka.pdb
+C:\Users\Angelina\source\repos\Stroka\Stroka\obj\Debug\net5.0\Stroka.csproj.AssemblyReference.cache
+C:\Users\Angelina\source\repos\Stroka\Stroka\obj\Debug\net5.0\Stroka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angelina\source\repos\Stroka\Stroka\obj\Debug\net5.0\Stroka.AssemblyInfoInputs.cache
+C:\Users\Angelina\source\repos\Stroka\Stroka\obj\Debug\net5.0\Stroka.AssemblyInfo.cs
+C:\Users\Angelina\source\repos\Stroka\Stroka\obj\Debug\net5.0\Stroka.csproj.CoreCompileInputs.cache
+C:\Users\Angelina\source\repos\Stroka\Stroka\obj\Debug\net5.0\Stroka.dll
+C:\Users\Angelina\source\repos\Stroka\Stroka\obj\Debug\net5.0\ref\Stroka.dll
+C:\Users\Angelina\source\repos\Stroka\Stroka\obj\Debug\net5.0\Stroka.pdb
+C:\Users\Angelina\source\repos\Stroka\Stroka\obj\Debug\net5.0\Stroka.genruntimeconfig.cache
